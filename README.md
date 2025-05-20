@@ -1,0 +1,1 @@
+The repo contains the fraud detection model python file and the dataset used in the prepapration for this model. I made minor tweaks post discussion but its not accurate still. I will keep improving the model and update it. Thanks 
